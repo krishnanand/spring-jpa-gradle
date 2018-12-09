@@ -1,0 +1,13 @@
+language: java
+
+notifications:
+  email: false
+ 
+jdk:
+- oraclejdk8
+
+before_script:
+- chmod +x gradlew
+
+script:
+./gradlew build
