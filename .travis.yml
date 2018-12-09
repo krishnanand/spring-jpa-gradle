@@ -6,8 +6,10 @@ notifications:
 jdk:
 - oraclejdk8
 
-before_install:
-- chmod +x gradlew
+install:
+ - true
 
-script:
-./gradlew build
+before_install:
+  - sudo chmod +x gradlew
+
+script: ./gradlew  clean build
