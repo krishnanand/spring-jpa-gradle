@@ -1,0 +1,23 @@
+
+.DS_Store
+
+# Build artifacts
+target/
+.gradle
+build/
+bin/
+dependency-reduced-pom.xml
+
+# Package Files For Idea
+*.idea
+*.iml
+*.ipr
+*.iws
+
+# For eclipse users
+.classpath
+.project
+.settings/
+
+
+
