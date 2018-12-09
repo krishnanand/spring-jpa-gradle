@@ -1,4 +1,4 @@
-# Restful Webservice to allow the users to perform CRUD operations to create, view, update and delete stations.
+# Restful Webservice to allow the users to perform CRUD operations to create, view, update and delete stations. [![Build Status](https://travis-ci.org/krishnanand/spring-jpa-gradle.svg?branch=master)](https://github.com/krishnanand/spring-jpa-gradle)
 
 ## Table of Contents
 
